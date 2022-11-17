@@ -1,3 +1,9 @@
+//El siguiente codigo calcula la posicion de un robot, que parte en un eje de coordenadas en el punto 0,0
+// Siempre empieza en el eje Y, si es negativo el dato retrocede 
+// y cada vez que termina un dato gira 90º en sentido contrario a las agujas del reloj.
+// 
+// 
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
